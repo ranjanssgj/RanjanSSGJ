@@ -3,7 +3,7 @@ Currently working on **LIA**, an AI Powered Desktop Companion.
 Interested in Web Development, Artificial Intelligence, and Data Science.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Xsm3jSHN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjan-kumar97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techincalhowto@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ndB66wFcnz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjan-kumar97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techincalhowto@gmail.com) 
 
 ---
 
