@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Solo Leveling Inspired personality system.<br>Interested in Web Development, Artificial Intelligence, and Data Science<br>
+Currently working on LIA, an AI Powered Desktop Companion.<br>Interested in Web Development, Artificial Intelligence, and Data Science<br>
 
 
 ## 🌐 Socials:
