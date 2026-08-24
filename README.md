@@ -4,7 +4,7 @@ Aesthetic, navigable, stats-driven. Tech stack sourced from resume (2026).
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=200&section=header&text=Ranjan%20Kumar&fontSize=50&fontAlignY=38&desc=Building%20AI-powered%20tools%20%26%20learning%20in%20public&descAlignY=58&animation=twinkling" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27,12,20&height=200&section=header&text=Ranjan%20Kumar&fontSize=50&fontAlignY=38&desc=Building%20AI-powered%20tools%20and%20learning%20in%20public&descAlignY=58&animation=twinkling" alt="banner" />
 </div>
 
 <div align="center">
@@ -47,8 +47,6 @@ I'm a **Computer Science graduate** and builder who likes turning ideas into wor
 ---
 
 ## 💻 Tech Stack
-
-> Sourced from my resume — the tools I actually ship with.
 
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -110,6 +108,6 @@ I'm easy to reach and happy to talk projects, OSS, or just say hi:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=24&animation=fadeIn" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,27&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=24&animation=fadeIn" alt="footer" />
   <p><sub>Profile README auto-render powered by shields.io, github-readme-stats, streak-stats & activity-graph. Last refactor: 2026-08-25.</sub></p>
 </div>
