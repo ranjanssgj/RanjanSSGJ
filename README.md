@@ -1,6 +1,6 @@
 <!--
 ✨ Ranjan Kumar — GitHub Profile README
-Aesthetic, navigable, stats-driven. Edit the ⚠️ markers to confirm details.
+Aesthetic, navigable, stats-driven. Tech stack sourced from resume (2026).
 -->
 
 <div align="center">
@@ -17,7 +17,7 @@ Aesthetic, navigable, stats-driven. Edit the ⚠️ markers to confirm details.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ranjanssgj&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Dev-3670A0?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Student-BSc%20CS%20(Hansraj)-FFD700?style=for-the-badge" alt="student" />
+  <img src="https://img.shields.io/badge/Grad-BSc%20Physical%20Sci%20w%2F%20CS%20(Hansraj)-FFD700?style=for-the-badge" alt="grad" />
 </div>
 
 ---
@@ -26,13 +26,13 @@ Aesthetic, navigable, stats-driven. Edit the ⚠️ markers to confirm details.
 
 > *"I code to fulfill my desires."*
 
-I'm a **Computer Science student** and builder who likes turning ideas into working software — especially things powered by **AI/LLMs**, fast backends, and clean interfaces. I learn in public: contributing to open source (including upstream ML libraries), shipping side projects, and writing about what I figure out along the way.
+I'm a **Computer Science graduate** and builder who likes turning ideas into working software — especially things powered by **AI/LLMs**, fast backends, and clean interfaces. I learn in public: contributing to open source, shipping side projects, and writing about what I figure out along the way.
 
 **Currently into:**
 - 🤖 Building **LIA** — an AI-powered desktop companion for Linux
 - 🧠 Studying the **Machine Learning Specialization** (deep learning, classical ML)
 - 🛠️ Shipping full-stack tools with **FastAPI + React**
-- 📚 Preparing for **CDS** alongside my degree
+- 🚀 Exploring **agentic AI** and local-LLM tooling
 
 ---
 
@@ -40,66 +40,47 @@ I'm a **Computer Science student** and builder who likes turning ideas into work
 
 | Section | What's inside |
 |---------|---------------|
-| [💻 Tech Stack](#-tech-stack) | Languages, frontend, backend, DevOps, tools |
-| [🚀 Featured Projects](#-featured-projects) | My best / most-starred work |
+| [💻 Tech Stack](#-tech-stack) | Languages, frameworks, tools (from resume) |
 | [📊 GitHub Stats](#-github-stats) | Activity graph, streaks, language breakdown |
-| [🎓 About / Resume](#-about--resume) | Education, experience, what I'm looking for |
 | [🌐 Connect](#-connect) | Socials & how to reach me |
 
 ---
 
 ## 💻 Tech Stack
 
+> Sourced from my resume — the tools I actually ship with.
+
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%2300ADD8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GDScript](https://img.shields.io/badge/gdscript-%233A783A.svg?style=for-the-badge&logo=godot&logoColor=white)
 
-### ⚙️ Backend & Database
+### 🧰 Frameworks & Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Ollama](https://img.shields.io/badge/ollama-%23000000?style=for-the-badge&logo=ollama&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-> Ranked by community interest (stars). Tap any card to visit.
-
-<div align="center">
-
-[![arch-cleaner](https://github-readme-stats.vercel.app/api/pin/?username=ranjanssgj&repo=arch-cleaner&theme=radical&border_color=8A2BE2)](https://github.com/ranjanssgj/arch-cleaner)
-[![DataLens](https://github-readme-stats.vercel.app/api/pin/?username=ranjanssgj&repo=DataLens&theme=radical&border_color=8A2BE2)](https://github.com/ranjanssgj/DataLens)
-[![Lia](https://github-readme-stats.vercel.app/api/pin/?username=ranjanssgj&repo=Lia&theme=radical&border_color=8A2BE2)](https://github.com/ranjanssgj/Lia)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ranjanssgj&repo=portfolio&theme=radical&border_color=8A2BE2)](https://github.com/ranjanssgj/portfolio)
-[![highliight-saver](https://github-readme-stats.vercel.app/api/pin/?username=ranjanssgj&repo=highliight-saver&theme=radical&border_color=8A2BE2)](https://github.com/ranjanssgj/highliight-saver)
-[![scamshield_api](https://github-readme-stats.vercel.app/api/pin/?username=ranjanssgj&repo=scamshield_api&theme=radical&border_color=8A2BE2)](https://github.com/ranjanssgj/scamshield_api)
-
-</div>
-
-**A few words on each:**
-- **arch-cleaner** (★5) — Python utility that cleans an Arch Linux system (orphans, cache, partial downloads).
-- **DataLens** (★3) — connects to enterprise DBs (Snowflake, PostgreSQL, SQL Server) to auto-generate self-updating data dictionaries.
-- **Lia** (★2) — AI-powered digital companion for Linux (GDScript).
-- **portfolio** (★1) — my personal portfolio site.
-- **highliight-saver** — browser tool to highlight, organize, and search saved insights from any site.
-- **scamshield_api** — FastAPI scam-detection service.
+### ⚙️ Technologies & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Godot](https://img.shields.io/badge/godot-%23FFFFFF?style=for-the-badge&logo=godot&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
+![UDP Sockets](https://img.shields.io/badge/UDP%20Sockets-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -114,24 +95,6 @@ I'm a **Computer Science student** and builder who likes turning ideas into work
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjanssgj&theme=react-dark&hide_border=true&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&bg_color=0d1117" alt="activity graph" />
 
 </div>
-
----
-
-## 🎓 About / Resume
-
-<!-- ⚠️ CONFIRM THESE: drafted from verified GitHub + session context. Edit the bracketed bits. -->
-
-- 🎓 **Education:** BSc Computer Science, **Hansraj College** (University of Delhi) — expected **2026**.
-- 💼 **Experience / Roles:**
-  - **AI Annotation / LLM Evaluation** — Outlier AI (currently applying to LLM-evaluator positions).
-  - **Open-Source Contributor** — upstream PRs to ML libraries (e.g., Keras).
-- 🧠 **Learning now:** Machine Learning Specialization (supervised/unsupervised learning, neural nets, deep learning).
-- 🛠️ **What I build:** AI-integrated web apps (FastAPI + React), developer utilities, and agent/companion tooling.
-- 🌱 **Currently shipping:** LIA (AI desktop companion), plus experiment repos across AI agents and web tooling.
-- 🎯 **Looking for:** ML / AI engineering internships, LLM-evaluation work, and collaborator-friendly OSS.
-- 📍 **Based in:** New Delhi, India.
-
-*⚠️ If any detail above is wrong or you'd rather not list something publicly (e.g., the Outlier role), tell me and I'll trim it.*
 
 ---
 
